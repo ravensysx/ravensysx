@@ -1,3 +1,3 @@
 <samp>
-hey
+hey.
 </samp>
