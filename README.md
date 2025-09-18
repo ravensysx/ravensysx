@@ -1,4 +1,1 @@
-<samp>
-hey. <br />
-currently working on [ghostbin](https://github.com/ravensysx/ghostbin)
-</samp>
+<samp>currently working on [ghostbin](https://github.com/ravensysx/ghostbin)</samp>
